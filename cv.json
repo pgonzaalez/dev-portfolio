@@ -1,0 +1,226 @@
+{
+  "basics": {
+    "name": "Pol Gonzalez",
+    "label": "Junior Full Stack Developer",
+    "image": "/avatar.jpg",
+    "email": "pgmxx04@gmail.com",
+    "phone": "+34 637607066",
+    "url": "https://pgonzalez.info",
+    "summary": "Me esfuerzo constantemente por perfeccionar mis habilidades. Mi pasión por la programación y la resolución de problemas me impulsa a profundizar en estas tecnologías y crear soluciones innovadoras.",
+    "theme": "default",
+    "location": {
+      "address": "",
+      "postalCode": "08227",
+      "city": "Terrassa",
+      "countryCode": "Spain",
+      "region": "Barcelona"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "pol-gonzalez",
+        "url": "https://www.linkedin.com/in/pol-gonzalez/"
+      },
+      {
+        "network": "X",
+        "username": "cachauES",
+        "url": "https://x.com/cachauES"
+      },
+      {
+        "network": "GitHub",
+        "username": "pgonzaalez",
+        "url": "https://github.com/pgonzaalez"
+      }
+    ]
+  },
+  "work": [],
+  "volunteer": [
+    {
+      "organization": "Local Coding Club",
+      "position": "Volunteer",
+      "url": "https://codingclub.com/",
+      "startDate": "2021-01-01",
+      "endDate": "2022-01-01",
+      "summary": "Helped organize coding workshops and mentored new members.",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Nicolau Copernic",
+      "url": "https://copernic.cat/ca",
+      "area": "Sistemas Microinformáticos y Redes",
+      "studyType": "Ciclo Formativo de Grado Medio",
+      "startDate": "2020-09-01",
+      "endDate": "2022-05-01",
+      "score": "3.8",
+      "courses": [
+        "CS101 - Introduction to Computer Science",
+        "CS102 - Data Structures"
+      ]
+    },
+    {
+      "institution": "Instituto Nicolau Copernic",
+      "url": "https://copernic.cat/ca",
+      "area": "Desarrollo de Aplicaciones Multiplataforma",
+      "studyType": "Ciclo Formativo de Grado Superior",
+      "startDate": "2022-09-01",
+      "endDate": "2024-12-01",
+      "score": "3.9",
+      "courses": [
+        "SE201 - Advanced Software Development",
+        "SE202 - Software Architecture and Design"
+      ]
+    },
+    {
+      "institution": "Instituto Nicolau Copernic",
+      "url": "https://copernic.cat/ca",
+      "area": "Desarrollo de Aplicaciones Web",
+      "studyType": "Ciclo Formativo de Grado Superior",
+      "startDate": "2024-09-01",
+      "endDate": "2025-12-01",
+      "score": "3.9",
+      "courses": [
+        "SE201 - Advanced Software Development",
+        "SE202 - Software Architecture and Design"
+      ]
+    }
+  ],
+  "certificates": [],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "Responsive Design"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Vue",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Intermediate",
+      "keywords": ["Databases", "NoSQL", "Data Storage", "Backend"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": ["Databases", "SQL", "Data Storage", "Backend"]
+    },
+    {
+      "name": "Java",
+      "level": "Intermediate",
+      "keywords": ["Programming", "Backend"]
+    },
+    {
+      "name": "Springboot",
+      "level": "Intermediate",
+      "keywords": ["Java Framework", "Backend", "REST API"]
+    },
+    {
+      "name": "Kotlin",
+      "level": "Intermediate",
+      "keywords": ["Programming", "Backend", "Android Development"]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermediate",
+      "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
+    },
+    {
+      "name": "Figma",
+      "level": "Beginner",
+      "keywords": ["Design", "UI"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": ["AI", "Blockchain"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Smith",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Mushtool App",
+      "isActive": false,
+      "description": "App movil para los aficionados a las setas, con la que podrán identificarlas y conocer sus propiedades.",
+      "highlights": [
+        "Tecnologias utilizadas: Kotlin, Firebase, SQLite"
+      ]
+    },
+    {
+      "name": "Footflex Ecommerce",
+      "isActive": true,
+      "description": "Footflex es una aplicación web de venta de zapatillas, con la que los usuarios pueden comprar zapatillas y los administradores pueden gestionar los productos.",
+      "highlights": [
+        "Tecnologias utilizadas: Java, Springboot, MySQL, HTML, CSS, JavaScript, SCSS, Bootstrap"
+      ],
+      "url": "https://github.com/pgonzaalez/footflex"
+    },
+    {
+      "name": "Topbid",
+      "isActive": true,
+      "description": "Topbid es una aplicación web de subastas en tiempo real.",
+      "highlights": [
+        "Tecnologias utilizadas: PHP, MySQL, HTML, CSS, JavaScript"
+      ],
+      "url": "https://gitlab.com/subhasta/subhasta10"
+    },
+    {
+      "name": "UrbanaEscapes",
+      "isActive": true,
+      "description": "UrbanaEscapes son 3 aplicaciones para una cadena de hoteles, una de gestión en la que los empleados pueden gestionar las reservas y 2 para los clientes, una de toda la cadena y otra para cada hotel.",
+      "highlights": [
+        "Tecnologias utilizadas: Laravel, MySQL, HTML, CSS, SCSS, JavaScript, Vue, React, Tailwind"
+      ],
+      "url": "https://gitlab.com/gonzalez.miranda.pol/grup-6-polgonzalez"
+    }
+  ]
+}
