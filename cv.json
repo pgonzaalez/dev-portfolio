@@ -222,6 +222,16 @@
       ],
       "url": "https://gitlab.com/gonzalez.miranda.pol/grup-6-polgonzalez",
       "github": ""
+    },
+    {
+      "name": "LaVibria",
+      "isActive": true,
+      "description": "La Víbria Intercultural es una plataforma que conecta a jóvenes con oportunidades de voluntariado internacional transformadoras. A través de la web puedes descubrir proyectos en todo el mundo, apuntarte y, una vez vivida la experiencia, compartir tu testimonio para inspirar a otros. Es mucho más que hacer un voluntariado: es construir una comunidad donde las vivencias de cada uno se convierten en guía para los que vendrán después.",
+      "highlights": [
+        "Tecnologias utilizadas: Astro, Wordpress CMS, TailwindCSS, JavaScript"
+      ],
+      "url": "",
+      "github": ""
     }
   ]
 }
