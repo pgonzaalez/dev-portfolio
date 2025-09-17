@@ -258,7 +258,7 @@
     },
     {
       "name": "Footflex Ecommerce",
-      "isActive": true,
+      "isActive": false,
       "description": "Footflex es una aplicación web de venta de zapatillas, con la que los usuarios pueden comprar zapatillas y los administradores pueden gestionar los productos.",
       "highlights": [
         "Tecnologias utilizadas: Java, Springboot, MySQL, HTML, CSS, JavaScript, SCSS, Bootstrap"
@@ -267,7 +267,7 @@
     },
     {
       "name": "Topbid",
-      "isActive": true,
+      "isActive": false,
       "description": "Topbid es una aplicación web de subastas en tiempo real.",
       "highlights": [
         "Tecnologias utilizadas: PHP, MySQL, HTML, CSS, JavaScript"
@@ -276,7 +276,7 @@
     },
     {
       "name": "UrbanaEscapes",
-      "isActive": true,
+      "isActive": false,
       "description": "UrbanaEscapes son 3 webs para una cadena de hoteles, una de gestión en la que los empleados pueden gestionar las reservas y 2 para los clientes, una de toda la cadena y otra para cada hotel.",
       "highlights": [
         "Tecnologias utilizadas: Laravel, MySQL, HTML, CSS, SCSS, JavaScript, Vue, React, Tailwind"
@@ -285,7 +285,7 @@
     },
     {
       "name": "LaVibria",
-      "isActive": true,
+      "isActive": false,
       "description": "Reestructuración integral del sitio web de La Víbria (espacio juvenil en Terrassa) con el objetivo de modernizar su presencia digital, mejorar la experiencia de usuario y optimizar el rendimiento. Incluye rediseño visual y estructural (de Figma a implementación), integración con WordPress CMS para gestión dinámica de contenidos, despliegue en AWS, control de versiones con Git y funcionalidades interactivas con JavaScript.",
       "highlights": [
         "Tecnologias utilizadas: Astro, Wordpress CMS, TailwindCSS, JavaScript"
