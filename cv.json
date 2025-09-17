@@ -254,7 +254,8 @@
       "highlights": [
         "Tecnologias utilizadas: Kotlin, Firebase, SQLite"
       ],
-      "url": "https://github.com/pgonzaalez/mushtool-app"
+      "url": "https://github.com/pgonzaalez/mushtool-app",
+      "github": "https://github.com/pgonzaalez/mushtool-app"
     },
     {
       "name": "Footflex Ecommerce",
@@ -263,7 +264,8 @@
       "highlights": [
         "Tecnologias utilizadas: Java, Springboot, MySQL, HTML, CSS, JavaScript, SCSS, Bootstrap"
       ],
-      "url": "https://github.com/pgonzaalez/footflex"
+      "url": "https://github.com/pgonzaalez/footflex",
+      "github": "https://github.com/pgonzaalez/footflex"
     },
     {
       "name": "Topbid",
@@ -272,7 +274,8 @@
       "highlights": [
         "Tecnologias utilizadas: PHP, MySQL, HTML, CSS, JavaScript"
       ],
-      "url": "https://gitlab.com/subhasta/subhasta10"
+      "url": "https://github.com/pgonzaalez/projecte-subastas",
+      "github": "https://github.com/pgonzaalez/projecte-subastas"
     },
     {
       "name": "UrbanaEscapes",
@@ -281,7 +284,8 @@
       "highlights": [
         "Tecnologias utilizadas: Laravel, MySQL, HTML, CSS, SCSS, JavaScript, Vue, React, Tailwind"
       ],
-      "url": "https://gitlab.com/gonzalez.miranda.pol/grup-6-polgonzalez"
+      "url": "https://gitlab.com/gonzalez.miranda.pol/grup-6-polgonzalez",
+      "github": "https://gitlab.com/gonzalez.miranda.pol/grup-6-polgonzalez"
     },
     {
       "name": "LaVibria",
@@ -290,7 +294,8 @@
       "highlights": [
         "Tecnologias utilizadas: Astro, Wordpress CMS, TailwindCSS, JavaScript"
       ],
-      "url": "https://github.com/pgonzaalez/lavibria"
+      "url": "https://github.com/pgonzaalez/lavibria",
+      "github": "https://github.com/pgonzaalez/lavibria"
     }
   ]
 }
