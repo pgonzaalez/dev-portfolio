@@ -42,7 +42,9 @@
       "startDate": "2021-01-01",
       "endDate": "2022-01-01",
       "summary": "Helped organize coding workshops and mentored new members.",
-      "highlights": ["Awarded 'Volunteer of the Month'"]
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
     }
   ],
   "education": [
@@ -91,17 +93,29 @@
     {
       "name": "HTML",
       "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend"]
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
     },
     {
       "name": "CSS",
       "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend", "Responsive Design"]
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
     },
     {
       "name": "JavaScript",
       "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
     },
     {
       "name": "Tailwind",
@@ -116,52 +130,95 @@
     {
       "name": "React",
       "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
     },
     {
       "name": "Vue",
       "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
     },
     {
       "name": "MongoDB",
       "level": "Intermediate",
-      "keywords": ["Databases", "NoSQL", "Data Storage", "Backend"]
+      "keywords": [
+        "Databases",
+        "NoSQL",
+        "Data Storage",
+        "Backend"
+      ]
     },
     {
       "name": "MySQL",
       "level": "Intermediate",
-      "keywords": ["Databases", "SQL", "Data Storage", "Backend"]
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
     },
     {
       "name": "Java",
       "level": "Intermediate",
-      "keywords": ["Programming", "Backend"]
+      "keywords": [
+        "Programming",
+        "Backend"
+      ]
     },
     {
       "name": "Springboot",
       "level": "Intermediate",
-      "keywords": ["Java Framework", "Backend", "REST API"]
+      "keywords": [
+        "Java Framework",
+        "Backend",
+        "REST API"
+      ]
     },
     {
       "name": "Kotlin",
       "level": "Intermediate",
-      "keywords": ["Programming", "Backend", "Android Development"]
+      "keywords": [
+        "Programming",
+        "Backend",
+        "Android Development"
+      ]
     },
     {
       "name": "Git",
       "level": "Intermediate",
-      "keywords": ["Version Control", "Collaboration", "Source Code"]
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
     },
     {
       "name": "GitHub",
       "level": "Intermediate",
-      "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code",
+        "Git"
+      ]
     },
     {
       "name": "Figma",
       "level": "Beginner",
-      "keywords": ["Design", "UI"]
+      "keywords": [
+        "Design",
+        "UI"
+      ]
     }
   ],
   "languages": [
@@ -177,7 +234,10 @@
   "interests": [
     {
       "name": "Technology",
-      "keywords": ["AI", "Blockchain"]
+      "keywords": [
+        "AI",
+        "Blockchain"
+      ]
     }
   ],
   "references": [
@@ -193,7 +253,8 @@
       "description": "App movil para los aficionados a las setas, con la que podrán identificarlas y conocer sus propiedades.",
       "highlights": [
         "Tecnologias utilizadas: Kotlin, Firebase, SQLite"
-      ]
+      ],
+      "url": "https://github.com/pgonzaalez/mushtool-app"
     },
     {
       "name": "Footflex Ecommerce",
@@ -216,22 +277,20 @@
     {
       "name": "UrbanaEscapes",
       "isActive": true,
-      "description": "UrbanaEscapes son 3 aplicaciones para una cadena de hoteles, una de gestión en la que los empleados pueden gestionar las reservas y 2 para los clientes, una de toda la cadena y otra para cada hotel.",
+      "description": "UrbanaEscapes son 3 webs para una cadena de hoteles, una de gestión en la que los empleados pueden gestionar las reservas y 2 para los clientes, una de toda la cadena y otra para cada hotel.",
       "highlights": [
         "Tecnologias utilizadas: Laravel, MySQL, HTML, CSS, SCSS, JavaScript, Vue, React, Tailwind"
       ],
-      "url": "https://gitlab.com/gonzalez.miranda.pol/grup-6-polgonzalez",
-      "github": ""
+      "url": "https://gitlab.com/gonzalez.miranda.pol/grup-6-polgonzalez"
     },
     {
       "name": "LaVibria",
       "isActive": true,
-      "description": "La Víbria Intercultural es una plataforma que conecta a jóvenes con oportunidades de voluntariado internacional transformadoras. A través de la web puedes descubrir proyectos en todo el mundo, apuntarte y, una vez vivida la experiencia, compartir tu testimonio para inspirar a otros. Es mucho más que hacer un voluntariado: es construir una comunidad donde las vivencias de cada uno se convierten en guía para los que vendrán después.",
+      "description": "Reestructuración integral del sitio web de La Víbria (espacio juvenil en Terrassa) con el objetivo de modernizar su presencia digital, mejorar la experiencia de usuario y optimizar el rendimiento. Incluye rediseño visual y estructural (de Figma a implementación), integración con WordPress CMS para gestión dinámica de contenidos, despliegue en AWS, control de versiones con Git y funcionalidades interactivas con JavaScript.",
       "highlights": [
         "Tecnologias utilizadas: Astro, Wordpress CMS, TailwindCSS, JavaScript"
       ],
-      "url": "",
-      "github": ""
+      "url": "https://github.com/pgonzaalez/lavibria"
     }
   ]
 }
