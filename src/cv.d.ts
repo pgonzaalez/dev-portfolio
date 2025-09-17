@@ -128,7 +128,6 @@ interface Projects {
   isActive: boolean;
   description: string;
   highlights: Highlight;
-  url: string;
   github?: string;
 }
 
